@@ -1,11 +1,10 @@
 # Hello, I'm Oluwatimilehin Awoniyi 👋
 
-I'm a Software Engineer from Lagos. I'm passionate about . Here are some things I'm working on:
+I'm a Software Engineer from Lagos. I'm passionate about Software Development. Here are some things about me:
 
 - 🌱 I’m currently learning C, Python, JavaScript, SQL
 - 👯 I’m looking to collaborate on Open Source Projects
 - 💬 Ask me about Software Engineering
-- 📫 How to reach me: awoniyitimi@gmail.com
 
 You can find more about me on my [personal website](https://www.oluwatimilehin-awoniyi.vercel.app/).
 
